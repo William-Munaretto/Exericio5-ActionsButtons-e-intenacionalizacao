@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Contatos</string>
+
+    <string name="act_remover" translatable="false">Remover</string>
+    <string name="act_editar" translatable="false">Editar</string>
+    <string name="act_adicionar" translatable="false">Adicionar</string>
+    <string name="text_helloWorld" translatable="false">Olá Mundo!</string>
+    <string name="act_ajuda" translatable="false">Ajuda</string>
+</resources>
